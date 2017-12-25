@@ -1,0 +1,6 @@
+ARANAN KELİME:ozgur 
+
+metin1.txt dosyasında 25.satırda bulundu.
+metin2.txt dosyasında 19.satırda bulundu.
+metin2.txt dosyasında 20.satırda bulundu.
+metin2.txt dosyasında 21.satırda bulundu.
